@@ -1,7 +1,7 @@
-# `premiumservice` API
+# `premiumservice` 
 
 ## Goal
-`premiumservice` is a web API designed to enhance customer support workflows by integrating with SupportBee and Stripe. It prioritizes support for paying customers automatically.
+`premiumservice` is a web app designed to enhance customer support workflows by integrating with SupportBee and Stripe. It prioritizes support for paying customers automatically.
 
 ## Functionality
 
