@@ -18,3 +18,8 @@
 - Assigns a "paying_customer" label to the corresponding support ticket.
 
 This integration ensures that paying customers receive prompt and prioritized support assistance.
+
+## Plan
+
+1. v0: Begin with only SB APIs and a static CSV of paying customers
+2. v1: Add stripe API integration
